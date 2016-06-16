@@ -24,13 +24,26 @@ body {
 }
 
 #yellow {
-
+  background: yellow;
+  padding: 5%;
+  /*margin-left: 5%;*/
+  margin-right: 30%;
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+#black{
+  background: black;
+  padding: 1%;
 }
 
 #red {
-
+  background: red;
+  padding: 5%;
+  /*margin-bottom: 10%;*/
 }
 
-#lightblue{
-
+#blue{
+  background: cyan;
+  padding: 10%;
+  /*margin-right: 10%;*/
 }
